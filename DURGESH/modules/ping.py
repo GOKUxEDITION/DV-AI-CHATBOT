@@ -91,7 +91,7 @@ async def ping(client, message):
     keyboard = InlineKeyboardMarkup([
         [
             InlineKeyboardButton(text="➕ Add Me", url=f"https://t.me/{app.username}?startgroup"),
-            InlineKeyboardButton(text="🔄 Update", url="https://t.me/net_pro_max"),
+            InlineKeyboardButton(text="🔄 Update", url="https://t.me/II_Masti_Ki_Pathshala_II"),
         ]
     ])
     
